@@ -1,0 +1,47 @@
+html, body, #root {
+    height: 100%; 
+    min-height: 100%; 
+    min-width: 100%; 
+    background-color: black; 
+}
+
+a {
+    text-decoration: none; 
+    color:  #127880 !important; 
+  }
+  
+.heading-font {
+    font-family: 'Prata', serif;
+}
+
+.content-font {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+}
+
+.grey-bg{
+    background-color: rgb(44, 44, 44); 
+}
+
+.turq-bg {
+    background-color:   #127880; 
+}
+
+.turq-text {
+    color:   #127880;
+}
+
+.swal-button {
+    background-color: #127880 !important; 
+    color: white !important; 
+  }
+
+  @media only screen and (max-width: 500px) {
+    .md-form label {
+        position: absolute !important;
+        top: 0rem !important;
+        left: 0 !important;
+    }
+  }
+  
+   

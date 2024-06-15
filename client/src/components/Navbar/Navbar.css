@@ -1,0 +1,39 @@
+.navbar {
+    z-index: 1000; 
+}
+.nav-bg {
+    background-color: rgb(44, 44, 44); 
+}
+
+#page-switch-link {
+    color:  #127880 !important; 
+}
+
+.nav-dropdown {
+    padding: 10px; 
+    transition: all 0.5s; 
+}
+.nav-dropdown:hover, #page-switch-link:hover  {
+    cursor: pointer; 
+    background-color:  #127880 !important; 
+    color: white !important; 
+    transition: all 1s; 
+}
+
+.nav-logo:hover {
+    transform: scale(1.1); 
+    cursor: pointer; 
+    background-color: white; 
+}
+
+.nav-logo {
+    background: url('../../images/navbarLogo.png');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    opacity: 0.5; 
+    width: 60px; 
+    height: 60px;
+}
+
