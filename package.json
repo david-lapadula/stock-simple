@@ -1,8 +1,8 @@
 {
-  "name": "stocksimple",
+  "name": "stockSimple",
   "version": "1.0.0",
   "main": "server.js",
-  "repository": "https://github.com/stockAppTeam/stockSimple.git",
+  "repository": "https://github.com/DavidLapadula/StockSimple.git",
   "author": "David Lapadula <lapadula.david@gmail.com>",
   "license": "MIT",
   "scripts": {
