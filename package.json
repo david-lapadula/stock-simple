@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "server.js",
   "repository": "https://github.com/DavidLapadula/StockSimple.git",
-  "author": "David Lapadula <lapadula.david@gmail.com>",
+  "author": "David Lapadula",
   "license": "MIT",
   "scripts": {
     "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
