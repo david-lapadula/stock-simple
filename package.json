@@ -12,7 +12,6 @@
     "client": "cd client && npm run start",
     "install": "cd client && yarn install",
     "build": "cd client && npm run build",
-    "heroku-postbuild": "cd client && npm install --only=dev && npm install && npm run build",
     "populate": "cd Seeds && node dbMigrations.js",
     "test": "cd Tests && node testing.js"
   },
