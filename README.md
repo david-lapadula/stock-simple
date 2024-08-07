@@ -8,7 +8,7 @@
 
 ## Description
 
-Full Stack web application that provides a simple and inituive tool for engaging with the stock market. Users can sign up, track stocks, set up watchlists, test investment strategies, and view the latest market news. 
+Full Stack web application that provides a simple and intuitive tool for engaging with the stock market. Users can sign up, track stocks, set up watchlists, test investment strategies, and view the latest market news. 
 
 ## Technology
 
