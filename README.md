@@ -27,8 +27,8 @@ Full Stack web application that provides a simple and intuitive tool for engagin
 2. Go into your Robo 3T client and create a database called 'stockSimple'. 
 3. Clone the repository to your local machine. 
 ```bash
-git clone https://github.com/DavidLapadula/StcokSimple.git
-cd stocksimple
+git clone https://github.com/DavidLapadula/stock-simple.git
+cd stock-simple
 ``` 
 4. Install dependencies with the following command. 
 ```bash
